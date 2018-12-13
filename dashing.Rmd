@@ -4,7 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     orientation: columns
     social: menu
-    runtime:  shiny
+    runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
